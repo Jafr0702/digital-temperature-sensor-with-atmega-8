@@ -1,2 +1,1 @@
-# digital-temperature-sensor-with-atmega-8
-LM35 temperature sensor with Lcd display
+pemrograman sensor LM-35 with Code vision AVR dengan tampilan LCD
