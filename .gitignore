@@ -1,32 +1,11 @@
-# Prerequisites
-*.d
+//Library
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+#include <mega8.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <delay.h>
+#include <io.h>
 
-# Precompiled Headers
-*.gch
-*.pch
+// Alphanumeric LCD functions
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+#include <alcd.h>
